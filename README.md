@@ -1,44 +1,4 @@
-# Free Tailwind & Laravel admin dashboard template
-
-![Mosaic TailwindCSS template preview](https://github.com/cruip/laravel-tailwindcss-admin-dashboard-template/assets/2683512/68bf8c3d-6525-4565-b6f8-c81611b9c1eb)
-
-**Mosaic Lite Laravel** is a responsive admin dashboard template built on top of Tailwind CSS and fully coded in Laravel Jetstream. This template is a great starting point for anyone who wants to create a user interface for SaaS products, administrator dashboards, modern web apps, and more.
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
-
-**UPDATE 2025-02-02** Added Tailwind v4 support!
-
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
-
-## Live demo
-
-Check a live demo here 👉️ [https://mosaic.cruip.com/](https://mosaic.cruip.com/?template=laravel)
-
-## Mosaic Pro
-
-[![Mosaic Tailwind Admin Template](https://github.com/cruip/tailwind-dashboard-template/assets/2683512/2b4d0fae-bb07-4229-8a8a-48005f2f33cb)](https://cruip.com/mosaic/)
-
-## Design files
-
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3sigqHe
-
-## Table of contents
-
-* [Usage](#usage)
-  * [Setup your .env config file](#setup-your-env-config-file)
-  * [Install Laravel dependencies](#install-laravel-dependencies)
-  * [Migrate the tables](#migrate-the-tables)
-  * [Generate some test data](#generate-some-test-data)
-  * [Compile the front-end](#compile-the-front-end)
-  * [Launch the Laravel backend](#launch-the-Laravel-backend)        
-* [Credits](#credits)
-* [Terms and License](#terms-and-license)
-* [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
-
-## Usage
-
-This project was built with [Laravel Jetstream](https://jetstream.laravel.com/) and [Livewire + Blade](https://jetstream.laravel.com/2.x/introduction.html#livewire-blade) as Stack.
-
+# Tailwind & Laravel admin dashboard
 ### Setup your .env config file
 Make sure to add the database configuration in your .env file such as database name, username, password and port.
 
@@ -87,18 +47,3 @@ in your browser and you'll be ready to test out your new mosaic laravel app.
 ## Credits
 
 - [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- License 👉 [https://cruip.com/terms/](https://cruip.com/terms/).
-- Copyright 2022 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow [@pacovitiello](https://x.com/pacovitiello) and [@DavidePacilio](https://x.com/DavidePacilio) on X, or you can subscribe to our [newsletter](https://cruip.com/newsletter/).
