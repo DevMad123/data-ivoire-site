@@ -21,8 +21,13 @@ use App\Http\Controllers\CampaignController;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-
-Route::redirect('/', 'login');
+Route::view('/', 'pages.public.home')->name('home');
+Route::view('/datasets', 'pages.public.datasets')->name('datasets');
+Route::view('/dataset_details', 'pages.public.dataset_details')->name('dataset_details');
+// Route::get('/dataset_details/{id}', [DatasetController::class, 'show'])->name('dataset_details');
+Route::view('/login', 'pages.public.login')->name('login');
+Route::view('/register', 'pages.public.register')->name('register');
+// Route::redirect('/', 'login');
 
 Route::middleware(['auth:sanctum', 'verified'])->group(function () {
 
